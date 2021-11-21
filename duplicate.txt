@@ -1,0 +1,1023 @@
+  'STATION6',   'STATION6.1'
+]
+station STATION3.1
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION3
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3.1
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION3
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION4
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION3
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1.1
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION1.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION3
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION7
+Received Message: /nodejs/mqtt STATION2.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2
+Received Message: /nodejs/mqtt STATION3
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION7
+Received Message: /nodejs/mqtt STATION2.1
+Received Message: /nodejs/mqtt STATION3
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION7
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4
+Received Message: /nodejs/mqtt STATION2.1
+Received Message: /nodejs/mqtt STATION3
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION7
+Received Message: /nodejs/mqtt STATION2.1
+Received Message: /nodejs/mqtt STATION3
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION7
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1.1
+Received Message: /nodejs/mqtt STATION3
+Received Message: /nodejs/mqtt STATION1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3
+Received Message: /nodejs/mqtt STATION4.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION7
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION7
+Received Message: /nodejs/mqtt STATION2.1
+Received Message: /nodejs/mqtt STATION3
+Received Message: /nodejs/mqtt STATION1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2.1
+Received Message: /nodejs/mqtt STATION4
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION7
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION7
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION7
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION7
+Received Message: /nodejs/mqtt STATION2.1
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION7
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION7
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION7
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1
+Received Message: /nodejs/mqtt STATION2.1
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION2.1
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION1.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3
+Received Message: /nodejs/mqtt STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION3
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION3
+Received Message: /nodejs/mqtt STATION7
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION7
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1'
+]
+station STATION4.1
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION3
+Received Message: /nodejs/mqtt STATION2.1
+Received Message: /nodejs/mqtt STATION7
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION1.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION1
+Received Message: /nodejs/mqtt STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION7
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION3.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION4.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION2.1
+Received Message: /nodejs/mqtt STATION3
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION3
+Received Message: /nodejs/mqtt STATION7
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION6
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION4
+Received Message: /nodejs/mqtt STATION2.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION1.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION4.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION4.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION4
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7'
+]
+station STATION3
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION3
+Received Message: /nodejs/mqtt STATION2.1
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION6
+Received Message: /nodejs/mqtt STATION3
+Received Message: /nodejs/mqtt STATION2.1
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION4
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7'
+]
+station STATION2.1
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7'
+]
+station STATION3.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7'
+]
+station STATION3.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7'
+]
+station STATION4.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7'
+]
+station STATION1.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7'
+]
+station STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7'
+]
+station STATION2
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7'
+]
+station STATION7
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7'
+]
+station STATION2.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7'
+]
+station STATION2.1
+stations [
+  'STATION1.1', 'STATION1',
+  'STATION2',   'STATION2.1',
+  'STATION3',   'STATION3.1',
+  'STATION4',   'STATION4.1',
+  'STATION6',   'STATION6.1',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7',
+  'STATION7',   'STATION7'
+]
+station STATION1.1
+^C
+pi@raspberrypi:~/Downloads/loom-log-master $ ^C
+pi@raspberrypi:~/Downloads/loom-log-master $ ^C
+pi@raspberrypi:~/Downloads/loom-log-master $ ^C
+pi@raspberrypi:~/Downloads/loom-log-master $ 

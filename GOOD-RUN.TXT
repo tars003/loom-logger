@@ -1,0 +1,1055 @@
+Received Message: /nodejs/mqtt STATION7.1
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION2
+Station already in list STATION2 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION7.1
+Station already in list STATION7.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION6
+Station already in list STATION6 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION3
+Station already in list STATION3 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION3.1
+Station already in list STATION3.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION3
+Station already in list STATION3 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION4
+Station already in list STATION4 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION7.1
+Station already in list STATION7.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION10
+Station already in list STATION10 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION6
+Station already in list STATION6 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION4.1
+Station already in list STATION4.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION3.1
+Station already in list STATION3.1 | true
+
+Received Message: /nodejs/mqtt STATION7
+Received Message: /nodejs/mqtt STATION5
+Received Message: /nodejs/mqtt STATION9
+Received Message: /nodejs/mqtt STATION6.1
+Received Message: /nodejs/mqtt STATION7.1
+Received Message: /nodejs/mqtt STATION9.1
+Received Message: /nodejs/mqtt STATION8
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION6.1
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION8.1
+Station already in list STATION8.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION7
+Station already in list STATION7 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION7.1
+Station already in list STATION7.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION10.1
+Station already in list STATION10.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1'
+]
+station STATION5
+Station NEW insterted, STATION5 | false
+Received Message: /nodejs/mqtt STATION9.1
+Received Message: /nodejs/mqtt STATION3.1
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION7
+Station already in list STATION7 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION5
+Station already in list STATION5 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION9.1
+Station already in list STATION9.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION1.1
+Station already in list STATION1.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION9
+Station already in list STATION9 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION3.1
+Station already in list STATION3.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION7.1
+Station already in list STATION7.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION8
+Station already in list STATION8 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION6.1
+Station already in list STATION6.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION6.1
+Station already in list STATION6.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION3.1
+Station already in list STATION3.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION9.1
+Station already in list STATION9.1 | true
+
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION7.1
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION7.1
+Station already in list STATION7.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION3.1
+Station already in list STATION3.1 | true
+
+Received Message: /nodejs/mqtt STATION2.1
+Received Message: /nodejs/mqtt STATION1.1
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION2.1
+Station already in list STATION2.1 | true
+
+Received Message: /nodejs/mqtt STATION2
+Received Message: /nodejs/mqtt STATION7
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION1.1
+Station already in list STATION1.1 | true
+
+Received Message: /nodejs/mqtt STATION9
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION9
+Station already in list STATION9 | true
+
+Received Message: /nodejs/mqtt STATION2.1
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION7
+Station already in list STATION7 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION2
+Station already in list STATION2 | true
+
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION4.1
+Received Message: /nodejs/mqtt STATION8.1
+Received Message: /nodejs/mqtt STATION9
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION1
+Station already in list STATION1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION2.1
+Station already in list STATION2.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION1.1
+Station already in list STATION1.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION4.1
+Station already in list STATION4.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION8.1
+Station already in list STATION8.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION3.1
+Station already in list STATION3.1 | true
+
+Received Message: /nodejs/mqtt STATION10
+Received Message: /nodejs/mqtt STATION7.1
+Received Message: /nodejs/mqtt STATION2.1
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION4
+Received Message: /nodejs/mqtt STATION10.1
+Received Message: /nodejs/mqtt STATION7
+Received Message: /nodejs/mqtt STATION4.1
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION9
+Station already in list STATION9 | true
+
+Received Message: /nodejs/mqtt STATION7.1
+Received Message: /nodejs/mqtt STATION3.1
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION2.1
+Station already in list STATION2.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION3.1
+Station already in list STATION3.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION7.1
+Station already in list STATION7.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION7.1
+Station already in list STATION7.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION10
+Station already in list STATION10 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION7
+Station already in list STATION7 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION4.1
+Station already in list STATION4.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION4
+Station already in list STATION4 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION1
+Station already in list STATION1 | true
+
+Received Message: /nodejs/mqtt STATION9
+Received Message: /nodejs/mqtt STATION8
+Received Message: /nodejs/mqtt STATION2.1
+Received Message: /nodejs/mqtt STATION6.1
+Received Message: /nodejs/mqtt STATION9.1
+Received Message: /nodejs/mqtt STATION3.1
+Received Message: /nodejs/mqtt STATION10
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION3.1
+Station already in list STATION3.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION10.1
+Station already in list STATION10.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION10
+Station already in list STATION10 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION2.1
+Station already in list STATION2.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION6.1
+Station already in list STATION6.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION8
+Station already in list STATION8 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION9
+Station already in list STATION9 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION3.1
+Station already in list STATION3.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION9.1
+Station already in list STATION9.1 | true
+
+Received Message: /nodejs/mqtt STATION1.1
+Received Message: /nodejs/mqtt STATION8
+Received Message: /nodejs/mqtt STATION9
+Received Message: /nodejs/mqtt STATION1
+Received Message: /nodejs/mqtt STATION10
+Received Message: /nodejs/mqtt STATION9.1
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION1.1
+Station already in list STATION1.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION1
+Station already in list STATION1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION9
+Station already in list STATION9 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION10
+Station already in list STATION10 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION9.1
+Station already in list STATION9.1 | true
+
+stations [
+  'STATION4',    'STATION4.1',
+  'STATION6.1',  'STATION2',
+  'STATION1',    'STATION3',
+  'STATION3.1',  'STATION7.1',
+  'STATION6',    'STATION1.1',
+  'STATION2.1',  'STATION8',
+  'STATION7',    'STATION8.1',
+  'STATION9',    'STATION9.1',
+  'STATION10',   'STATION5.1',
+  'STATION10.1', 'STATION5'
+]
+station STATION8
+Station already in list STATION8 | true
+
